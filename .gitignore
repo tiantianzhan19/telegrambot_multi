@@ -1,0 +1,14 @@
+
+# 环境变量文件
+.env
+
+
+# Python 生成文件
+__pycache__/
+*.pyc
+
+# 本地数据库
+*.db
+
+# 本地文档
+procrastination_conversations.xlsx
